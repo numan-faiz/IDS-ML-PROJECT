@@ -89,10 +89,7 @@ IDS-ML-PROJECT/
 ---
 
 ## 👨‍💻 Team Members
-
-- Uzair Ghani  
 - Numan Faiz  
-- [Write third group member name here]
 
 ---
 
